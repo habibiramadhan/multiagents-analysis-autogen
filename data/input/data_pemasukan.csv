@@ -1,0 +1,108 @@
+Tanggal,ID Transaksi,Nama Pengirim,Jumlah,Metode Pembayaran,Kategori
+2024-04-14 10:33:36.122771,T00001,Pengirim 7,1560008.02,E-wallet,Pemasukan Usaha
+2024-05-30 10:33:36.122801,T00002,Pengirim 7,2984540.88,Tunai,Pemasukan Pribadi
+2024-03-12 10:33:36.122805,T00003,Pengirim 15,2903313.25,E-wallet,Investasi
+2024-04-24 10:33:36.122807,T00004,Pengirim 15,2301123.54,Transfer Bank,Investasi
+2024-07-20 10:33:36.122809,T00005,Pengirim 10,502300.45,E-wallet,Pemasukan Pribadi
+2024-08-24 10:33:36.122811,T00006,Pengirim 14,4157929.0,Tunai,Investasi
+2024-06-04 10:33:36.122813,T00007,Pengirim 4,265626.36,Transfer Bank,Pemasukan Usaha
+2024-01-02 10:33:36.122816,T00008,Pengirim 15,535567.34,Transfer Bank,Pemasukan Usaha
+2023-12-12 10:33:36.122825,T00009,Pengirim 6,530369.09,Tunai,Investasi
+2024-02-11 10:33:36.122827,T00010,Pengirim 3,4614865.94,E-wallet,Pemasukan Pribadi
+2024-04-16 10:33:36.122829,T00011,Pengirim 5,3504829.5,E-wallet,Investasi
+2023-11-19 10:33:36.122831,T00012,Pengirim 13,2700274.01,E-wallet,Pemasukan Pribadi
+2024-01-07 10:33:36.122833,T00013,Pengirim 2,1181238.53,E-wallet,Investasi
+2023-12-19 10:33:36.122835,T00014,Pengirim 16,4498512.53,Transfer Bank,Investasi
+2024-08-25 10:33:36.122846,T00015,Pengirim 4,4055520.55,Transfer Bank,Pemasukan Pribadi
+2023-12-23 10:33:36.122848,T00016,Pengirim 20,2675637.97,Tunai,Pemasukan Pribadi
+2024-05-06 10:33:36.122849,T00017,Pengirim 5,4741743.56,E-wallet,Investasi
+2024-01-30 10:33:36.122851,T00018,Pengirim 11,2816856.33,E-wallet,Pemasukan Pribadi
+2024-05-13 10:33:36.122853,T00019,Pengirim 5,4957616.86,Tunai,Pemasukan Usaha
+2024-08-17 10:33:36.122854,T00020,Pengirim 1,2684317.06,Transfer Bank,Investasi
+2023-10-14 10:33:36.122856,T00021,Pengirim 17,800291.47,E-wallet,Pemasukan Pribadi
+2023-12-19 10:33:36.122858,T00022,Pengirim 4,4411098.33,Tunai,Pemasukan Pribadi
+2024-04-04 10:33:36.122859,T00023,Pengirim 7,4353664.55,Tunai,Pemasukan Usaha
+2024-08-21 10:33:36.122861,T00024,Pengirim 2,3411612.56,E-wallet,Investasi
+2023-12-25 10:33:36.122862,T00025,Pengirim 11,2077574.54,E-wallet,Pemasukan Usaha
+2024-02-16 10:33:36.122864,T00026,Pengirim 14,459285.32,Tunai,Investasi
+2024-06-16 10:33:36.122866,T00027,Pengirim 20,429650.53,Transfer Bank,Pemasukan Pribadi
+2024-05-09 10:33:36.122867,T00028,Pengirim 3,557598.04,Transfer Bank,Pemasukan Usaha
+2024-03-06 10:33:36.122869,T00029,Pengirim 10,4319054.57,Tunai,Pemasukan Pribadi
+2023-12-17 10:33:36.122871,T00030,Pengirim 6,382263.22,Transfer Bank,Pemasukan Pribadi
+2024-01-06 10:33:36.122873,T00031,Pengirim 1,3880447.14,Transfer Bank,Pemasukan Usaha
+2023-12-04 10:33:36.122874,T00032,Pengirim 9,1057800.11,Tunai,Pemasukan Pribadi
+2024-09-21 10:33:36.122876,T00033,Pengirim 11,4400252.63,Tunai,Investasi
+2024-06-22 10:33:36.122878,T00034,Pengirim 13,745129.22,Transfer Bank,Investasi
+2024-06-30 10:33:36.122880,T00035,Pengirim 2,808409.24,E-wallet,Investasi
+2024-05-22 10:33:36.122881,T00036,Pengirim 2,4707010.63,E-wallet,Pemasukan Pribadi
+2023-10-13 10:33:36.122883,T00037,Pengirim 14,4676999.25,Transfer Bank,Pemasukan Pribadi
+2024-03-05 10:33:36.122885,T00038,Pengirim 15,810547.4,Transfer Bank,Pemasukan Pribadi
+2024-10-03 10:33:36.122886,T00039,Pengirim 14,3439365.35,E-wallet,Pemasukan Pribadi
+2024-05-14 10:33:36.122888,T00040,Pengirim 12,4997424.55,Tunai,Investasi
+2024-03-18 10:33:36.122889,T00041,Pengirim 6,341934.78,Tunai,Pemasukan Pribadi
+2023-11-29 10:33:36.122891,T00042,Pengirim 18,585065.83,E-wallet,Pemasukan Pribadi
+2023-10-27 10:33:36.122893,T00043,Pengirim 13,3324013.01,Tunai,Investasi
+2024-03-06 10:33:36.122894,T00044,Pengirim 8,1569808.29,E-wallet,Pemasukan Usaha
+2024-05-07 10:33:36.122896,T00045,Pengirim 10,510821.57,Transfer Bank,Investasi
+2023-12-30 10:33:36.122897,T00046,Pengirim 5,141920.67,Tunai,Pemasukan Pribadi
+2024-05-14 10:33:36.122899,T00047,Pengirim 8,3153318.49,E-wallet,Investasi
+2024-03-28 10:33:36.122900,T00048,Pengirim 5,2472741.11,E-wallet,Pemasukan Usaha
+2024-07-15 10:33:36.122902,T00049,Pengirim 10,2761468.47,Transfer Bank,Pemasukan Pribadi
+2024-09-23 10:33:36.122904,T00050,Pengirim 1,801532.27,E-wallet,Pemasukan Usaha
+2023-10-31 10:33:36.122905,T00051,Pengirim 12,468189.8,Transfer Bank,Pemasukan Pribadi
+2024-03-25 10:33:36.122907,T00052,Pengirim 8,3396594.35,Transfer Bank,Investasi
+2023-10-25 10:33:36.122908,T00053,Pengirim 20,4134120.47,Transfer Bank,Pemasukan Pribadi
+2023-10-17 10:33:36.122910,T00054,Pengirim 9,3322438.02,Tunai,Investasi
+2024-01-13 10:33:36.122912,T00055,Pengirim 10,3663202.4,E-wallet,Pemasukan Usaha
+2024-08-11 10:33:36.122913,T00056,Pengirim 19,2546190.11,Transfer Bank,Pemasukan Usaha
+2024-09-20 10:33:36.122915,T00057,Pengirim 4,1211629.92,Transfer Bank,Investasi
+2023-12-30 10:33:36.122916,T00058,Pengirim 18,4880929.54,Tunai,Pemasukan Pribadi
+2024-08-01 10:33:36.122918,T00059,Pengirim 18,1855121.37,Tunai,Investasi
+2023-11-01 10:33:36.122920,T00060,Pengirim 1,1279363.96,Tunai,Pemasukan Usaha
+2023-10-27 10:33:36.122922,T00061,Pengirim 10,3440547.67,E-wallet,Investasi
+2023-11-03 10:33:36.122924,T00062,Pengirim 8,409221.39,E-wallet,Pemasukan Pribadi
+2023-12-13 10:33:36.122927,T00063,Pengirim 7,null,Tunai,Investasi
+2024-08-27 10:33:36.122930,T00064,Pengirim 8,4221286.86,E-wallet,Pemasukan Pribadi
+2023-12-22 10:33:36.122933,T00065,Pengirim 6,837786.47,Tunai,Pemasukan Usaha
+2023-11-02 10:33:36.122936,T00066,Pengirim 18,2073037.94,Transfer Bank,Investasi
+2024-01-19 10:33:36.122939,T00067,Pengirim 11,4286732.38,E-wallet,Pemasukan Usaha
+2024-09-20 10:33:36.122942,T00068,Pengirim 12,3251434.08,Tunai,Investasi
+2024-09-12 10:33:36.122944,T00069,Pengirim 6,1982319.1,Tunai,Investasi
+2024-08-06 10:33:36.122947,T00070,Pengirim 5,4744236.74,E-wallet,Investasi
+2024-09-14 10:33:36.122949,T00071,Pengirim 11,2940084.06,E-wallet,Pemasukan Usaha
+2024-09-17 10:33:36.122952,T00072,Pengirim 18,852353.31,Transfer Bank,Pemasukan Pribadi
+2024-08-10 10:33:36.122954,T00073,Pengirim 3,2961027.08,Transfer Bank,Pemasukan Usaha
+2024-06-22 10:33:36.122957,T00074,Pengirim 7,3594252.85,E-wallet,Investasi
+2024-07-07 10:33:36.122959,T00075,Pengirim 8,4365861.52,Tunai,Pemasukan Usaha
+2023-10-17 10:33:36.122962,T00076,Pengirim 20,4695422.31,Transfer Bank,Pemasukan Usaha
+2024-07-05 10:33:36.122965,T00077,Pengirim 19,2791851.75,E-wallet,Pemasukan Usaha
+2023-10-29 10:33:36.122968,T00078,Pengirim 19,1878280.73,Transfer Bank,Investasi
+2024-10-09 10:33:36.122971,T00079,Pengirim 20,2361999.94,Transfer Bank,Pemasukan Pribadi
+2023-12-23 10:33:36.122972,T00080,Pengirim 12,322607.43,E-wallet,Pemasukan Pribadi
+2024-02-22 10:33:36.122974,T00081,Pengirim 9,430105.5,Tunai,Pemasukan Pribadi
+2023-11-05 10:33:36.122976,T00082,Pengirim 17,2478516.64,Transfer Bank,Investasi
+2023-12-03 10:33:36.122978,T00083,Pengirim 11,4063961.44,E-wallet,Pemasukan Usaha
+2024-07-05 10:33:36.122980,T00084,Pengirim 7,4548547.09,E-wallet,Investasi
+2024-09-11 10:33:36.122981,T00085,Pengirim 10,2205582.48,Tunai,Pemasukan Pribadi
+2024-03-31 10:33:36.122988,T00086,Pengirim 13,519862.03,Transfer Bank,Investasi
+2024-06-07 10:33:36.122990,T00087,Pengirim 14,2485335.44,E-wallet,Investasi
+2024-01-12 10:33:36.122992,T00088,Pengirim 11,2530251.09,E-wallet,Investasi
+2024-07-24 10:33:36.122993,T00089,Pengirim 14,3924239.12,Tunai,Pemasukan Pribadi
+2024-08-28 10:33:36.122995,T00090,Pengirim 5,2846315.35,E-wallet,Pemasukan Usaha
+2024-07-27 10:33:36.122997,T00091,Pengirim 18,1944201.42,Transfer Bank,Pemasukan Pribadi
+2024-08-12 10:33:36.122998,T00092,Pengirim 2,1140880.17,E-wallet,Pemasukan Pribadi
+2024-03-02 10:33:36.123000,T00093,Pengirim 6,2398609.51,E-wallet,Pemasukan Usaha
+2023-11-13 10:33:36.123002,T00094,Pengirim 16,1126189.3,Transfer Bank,Pemasukan Pribadi
+2024-04-24 10:33:36.123004,T00095,Pengirim 17,2389090.51,E-wallet,Investasi
+2024-08-28 10:33:36.123005,T00096,Pengirim 3,4842783.35,Tunai,Investasi
+2024-07-28 10:33:36.123007,T00097,Pengirim 18,315829.48,E-wallet,Pemasukan Usaha
+2024-08-01 10:33:36.123008,T00098,Pengirim 4,4903364.91,Transfer Bank,Investasi
+
+
+2023-11-07 10:33:36.123010,T00099,Pengirim 15,,,Pemasukan Usaha
+
+2024-05-03 10:33:36.123012,,Pengirim 20,386836.92,E-wallet,Pemasukan Pribadi
+
+2024-05-03 10:33:36.123012,T00099,Pengirim 20,386836.92,E-wallet,Pemasukan Pribadi
+2024-05-03 10:33:36.123012,T00099,Pengirim 20,386836.92,E-wallet,Pemasukan Pribadi
+2024-05-03 10:33:36.123012,T00099,Pengirim 20,386836.92,E-wallet,Pemasukan Pribadi
